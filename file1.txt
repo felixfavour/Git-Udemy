@@ -1,2 +1,3 @@
 Hello, My name is Felix Favour
 I am testing Git (this line was committed to another branch)
+I've corrected my initial thought of branches being equal to contributors of a project.
