@@ -1,3 +1,4 @@
 Hello, My name is Felix Favour
 I am testing Git (this line was committed to another branch)
 I've corrected my initial thought of branches being equal to contributors of a project.
+Now I know that a branch is a group of commits that has its most recent commit as the HEAD
