@@ -1,1 +1,2 @@
 Hello, My name is Felix Favour
+I am testing Git (this line was committed to another branch)
